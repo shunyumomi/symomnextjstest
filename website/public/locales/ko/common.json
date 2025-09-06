@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "홈",
+    "gallery": "갤러리",
+    "photographers": "사진작가",
+    "collections": "컬렉션",
+    "magazine": "매거진",
+    "campaigns": "캠페인",
+    "behindTheScenes": "비하인드",
+    "search": "검색",
+    "about": "소개",
+    "contact": "연락처"
+  },
+  "home": {
+    "title": "MOMI - 패션 플랫폼",
+    "description": "큐레이션된 패션 컬렉션, 에디토리얼, 예술 사진을 발견하세요",
+    "explore": "탐색",
+    "featuredCollections": "추천 컬렉션",
+    "discoverSelections": "최신 큐레이션 선택을 발견하세요",
+    "latestEditorials": "최신 에디토리얼",
+    "storiesThroughLens": "렌즈를 통한 스토리",
+    "viewAll": "전체 보기",
+    "photographerSpotlight": "사진작가 스포트라이트",
+    "mastersBehindLens": "렌즈 뒤의 거장들",
+    "joinCreativeJourney": "우리의 창작 여정에 참여하세요",
+    "exploreIntersection": "패션, 예술, 사진의 교차점을 탐색하세요. 독점 콘텐츠와 비하인드 장면에 액세스하려면 구독하세요.",
+    "subscribe": "구독",
+    "exploreGallery": "갤러리 탐색",
+    "works": "작품"
+  },
+  "gallery": {
+    "title": "갤러리",
+    "description": "큐레이션된 사진 컬렉션을 둘러보세요",
+    "all": "전체",
+    "fashion": "패션",
+    "editorial": "에디토리얼",
+    "cinematic": "시네마틱",
+    "portrait": "포트레이트",
+    "wedding": "웨딩",
+    "artistic": "아티스틱",
+    "collections": "컬렉션",
+    "photographers": "사진작가",
+    "viewDetails": "세부 정보 보기",
+    "backToGallery": "갤러리로 돌아가기"
+  },
+  "photographers": {
+    "title": "사진작가",
+    "description": "재능 있는 사진작가 팀을 만나보세요",
+    "viewPortfolio": "포트폴리오 보기",
+    "specialty": "전문 분야",
+    "featuredWorks": "추천 작품"
+  },
+  "collections": {
+    "title": "컬렉션",
+    "description": "시즌 컬렉션과 특별 시리즈를 탐색하세요",
+    "viewCollection": "컬렉션 보기",
+    "pieces": "작품"
+  },
+  "contact": {
+    "title": "연락처",
+    "description": "MOMI와 연락하세요",
+    "sendMessage": "메시지 보내기",
+    "contactInfo": "연락처 정보",
+    "followUs": "팔로우",
+    "ourOffices": "우리 사무실",
+    "faq": "자주 묻는 질문",
+    "generalInquiries": "일반 문의",
+    "pressMedia": "언론 및 미디어",
+    "partnerships": "파트너십",
+    "careers": "채용",
+    "inquiryType": "문의 유형",
+    "name": "이름",
+    "email": "이메일",
+    "subject": "제목",
+    "message": "메시지",
+    "send": "메시지 보내기",
+    "sending": "전송 중...",
+    "thankYou": "메시지를 보내주셔서 감사합니다. 곧 연락드리겠습니다!",
+    "error": "문제가 발생했습니다. 다시 시도해 주세요."
+  },
+  "footer": {
+    "newsletter": "뉴스레터 구독",
+    "emailPlaceholder": "이메일 주소를 입력하세요",
+    "subscribe": "구독",
+    "followUs": "팔로우",
+    "quickLinks": "빠른 링크",
+    "legal": "법적 고지",
+    "privacyPolicy": "개인정보 보호정책",
+    "termsOfService": "서비스 약관",
+    "cookiePolicy": "쿠키 정책",
+    "allRightsReserved": "모든 권리 보유"
+  }
+}

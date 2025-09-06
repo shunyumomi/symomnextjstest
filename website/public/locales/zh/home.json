@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "title": "MOMI",
+    "subtitle": "时尚平台",
+    "description": "发现精选时尚收藏、社论和艺术摄影"
+  },
+  "featuredCollections": {
+    "title": "精选收藏",
+    "subtitle": "发现我们的最新精选",
+    "explore": "探索"
+  },
+  "latestEditorials": {
+    "title": "最新社论",
+    "subtitle": "镜头下的故事",
+    "viewAll": "查看全部"
+  },
+  "photographerSpotlight": {
+    "title": "摄影师聚焦",
+    "subtitle": "镜头后的大师"
+  },
+  "cta": {
+    "title": "加入我们的创意之旅",
+    "description": "探索时尚、艺术和摄影的交汇点。订阅独家内容和幕后访问。",
+    "subscribe": "订阅",
+    "exploreGallery": "探索画廊"
+  }
+}

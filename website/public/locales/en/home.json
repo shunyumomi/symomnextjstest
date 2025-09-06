@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "title": "MOMI",
+    "subtitle": "Fashion Platform",
+    "description": "Discover curated fashion collections, editorials, and artistic photography"
+  },
+  "featuredCollections": {
+    "title": "Featured Collections",
+    "subtitle": "Discover our latest curated selections",
+    "explore": "EXPLORE"
+  },
+  "latestEditorials": {
+    "title": "Latest Editorials",
+    "subtitle": "Stories through the lens",
+    "viewAll": "VIEW ALL"
+  },
+  "photographerSpotlight": {
+    "title": "Photographer Spotlight",
+    "subtitle": "Masters behind the lens"
+  },
+  "cta": {
+    "title": "Join Our Creative Journey",
+    "description": "Explore the intersection of fashion, art, and photography. Subscribe for exclusive content and behind-the-scenes access.",
+    "subscribe": "SUBSCRIBE",
+    "exploreGallery": "EXPLORE GALLERY"
+  }
+}
+
+

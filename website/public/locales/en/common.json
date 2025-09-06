@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "photographers": "Photographers",
+    "collections": "Collections",
+    "magazine": "Magazine",
+    "campaigns": "Campaigns",
+    "behindTheScenes": "Behind The Scenes",
+    "search": "Search",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "MOMI - Fashion Platform",
+    "description": "Discover curated fashion collections, editorials, and artistic photography",
+    "explore": "EXPLORE",
+    "featuredCollections": "Featured Collections",
+    "discoverSelections": "Discover our latest curated selections",
+    "latestEditorials": "Latest Editorials",
+    "storiesThroughLens": "Stories through the lens",
+    "viewAll": "VIEW ALL",
+    "photographerSpotlight": "Photographer Spotlight",
+    "mastersBehindLens": "Masters behind the lens",
+    "joinCreativeJourney": "Join Our Creative Journey",
+    "exploreIntersection": "Explore the intersection of fashion, art, and photography. Subscribe for exclusive content and behind-the-scenes access.",
+    "subscribe": "SUBSCRIBE",
+    "exploreGallery": "EXPLORE GALLERY",
+    "works": "works"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "Browse our curated collection of photography",
+    "all": "All",
+    "fashion": "Fashion",
+    "editorial": "Editorial",
+    "cinematic": "Cinematic",
+    "portrait": "Portrait",
+    "wedding": "Wedding",
+    "artistic": "Artistic",
+    "collections": "Collections",
+    "photographers": "Photographers",
+    "viewDetails": "View Details",
+    "backToGallery": "Back to Gallery"
+  },
+  "photographers": {
+    "title": "Photographers",
+    "description": "Meet our talented team of photographers",
+    "viewPortfolio": "View Portfolio",
+    "specialty": "Specialty",
+    "featuredWorks": "Featured Works"
+  },
+  "collections": {
+    "title": "Collections",
+    "description": "Explore our seasonal collections and special series",
+    "viewCollection": "View Collection",
+    "pieces": "pieces"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Get in touch with MOMI",
+    "sendMessage": "Send us a message",
+    "contactInfo": "Contact Information",
+    "followUs": "Follow Us",
+    "ourOffices": "Our Offices",
+    "faq": "Frequently Asked Questions",
+    "generalInquiries": "General Inquiries",
+    "pressMedia": "Press & Media",
+    "partnerships": "Partnerships",
+    "careers": "Careers",
+    "inquiryType": "Inquiry Type",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "thankYou": "Thank you for your message. We'll get back to you soon!",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "newsletter": "Subscribe to our newsletter",
+    "emailPlaceholder": "Enter your email address",
+    "subscribe": "Subscribe",
+    "followUs": "Follow Us",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy",
+    "allRightsReserved": "All rights reserved"
+  }
+}

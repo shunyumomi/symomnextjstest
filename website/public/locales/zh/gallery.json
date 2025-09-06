@@ -1,0 +1,28 @@
+{
+  "title": "画廊",
+  "description": "浏览我们的精选摄影作品集",
+  "categories": {
+    "all": "全部",
+    "fashion": "时尚",
+    "editorial": "社论",
+    "cinematic": "电影",
+    "portrait": "肖像",
+    "wedding": "婚礼",
+    "artistic": "艺术"
+  },
+  "filters": {
+    "sortBy": "排序方式",
+    "newest": "最新",
+    "oldest": "最旧",
+    "mostPopular": "最受欢迎",
+    "viewMode": "查看模式",
+    "grid": "网格",
+    "list": "列表"
+  },
+  "results": {
+    "showing": "显示",
+    "of": "共",
+    "results": "个结果",
+    "noResults": "未找到结果"
+  }
+}
