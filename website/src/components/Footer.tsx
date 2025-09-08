@@ -84,7 +84,7 @@ const Footer: React.FC = () => {
             <form className="flex gap-2">
               <input
                 type="email"
-                placeholder={t('footer.emailPlaceholder')}
+                placeholder={t('footer.emailPlaceholder')!}
                 className="flex-grow px-4 py-2 border border-gray-300 text-sm font-light focus:outline-none focus:border-black transition-colors"
               />
               <button

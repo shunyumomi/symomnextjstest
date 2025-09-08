@@ -206,7 +206,7 @@ const HomePage: React.FC = () => {
   ];
 
   return (
-    <Layout title={t('home.title')} description={t('home.description')}>
+    <Layout title={t('home.title')!} description={t('home.description')!}>
       {/* Hero Section */}
       <section className="relative h-screen w-full overflow-hidden">
         {heroSlides.length > 0 ? (
@@ -232,10 +232,10 @@ const HomePage: React.FC = () => {
                     alt={slide.title}
                     effect="opacity"
                     className="w-full h-full object-cover"
-                    onError={(e) => {
-                      console.error('Image failed to load:', slide.image);
+                    onError={() => {
+                     // console.error('Image failed to load:', slide.image);
                       // 设置默认图片或隐藏
-                      (e.target as HTMLImageElement).style.display = 'none';
+                      //(e.target as HTMLImageElement).style.display = 'none';
                     }}
                   />
                   <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/50" />
